@@ -1,6 +1,6 @@
 {
-  "name": "Aditya",
-  "description": "Hii I'm Aditya How can i Help you. ",
+  "name": "bhaumik",
+  "description": "Hii I'm gyomei How can i Help you. ",
   "keywords": [
       "bot",
       "whatsapp",
@@ -13,7 +13,7 @@
   ],
   "website": "https://github.com/ShinNouzen/Chitoge#readme",
   "repository": "https://github.com/ShinNouzen/Chitoge.git",
-  "logo": "https://i.pinimg.com/originals/0a/68/ce/0a68ce0aad05461b4db6e3d4c65e6876.jpg",
+  "logo": https://images.app.goo.gl/k2BSdDNKj5jjUA3R8
   "success_url": "/",
   "env": {
       "PREFIX": {
