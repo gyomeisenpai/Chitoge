@@ -1,7 +1,7 @@
 {
-    "name": "chitoge",
+    "name": "AdityaSahu",
     "version": "3.0.0",
-    "description": "A WhatsApp Bot With Rich Anime Features.",
+    "description": "Hii I'm Aditya How Can i Help you.",
     "main": "dist/chitoge.js",
     "scripts": {
         "build": "tsc -p .",
