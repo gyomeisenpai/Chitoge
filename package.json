@@ -1,7 +1,7 @@
 {
-    "name": "AdityaSahu",
+    "name": "gyomeisenpai",
     "version": "3.0.0",
-    "description": "Hii I'm Aditya How Can i Help you.",
+    "description": "Hii im gyomei senpai.",
     "main": "dist/chitoge.js",
     "scripts": {
         "build": "tsc -p .",
