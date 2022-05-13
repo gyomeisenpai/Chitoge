@@ -1,6 +1,6 @@
 {
-  "name": "Chitoge",
-  "description": "A WhatsApp Bot With Rich Anime Features. ",
+  "name": "Aditya",
+  "description": "Hii I'm Aditya How can i Help you. ",
   "keywords": [
       "bot",
       "whatsapp",
@@ -13,7 +13,7 @@
   ],
   "website": "https://github.com/ShinNouzen/Chitoge#readme",
   "repository": "https://github.com/ShinNouzen/Chitoge.git",
-  "logo": "https://wallpapermemory.com/uploads/711/chitoge-kirisaki-wallpaper-full-hd-323316.jpg",
+  "logo": "https://i.pinimg.com/originals/0a/68/ce/0a68ce0aad05461b4db6e3d4c65e6876.jpg",
   "success_url": "/",
   "env": {
       "PREFIX": {
